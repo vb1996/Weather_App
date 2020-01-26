@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Temperature</string>
+    <string name="min_temp_s">Min Temp: %,.2f</string>
+    <string name="accu_temp_s">Accu. Temp: %,.2f</string>
+    <string name="max_temp_s">Max Temp: %,.2f</string>
+    <string name="hum_temp_s">Humadity : %,.2f</string>
+    <string name="prob_temp_s">Probility : %,.2f</string>
+    <string name="alert_title">Please make sure connect with Internet!!</string>
+    <string name="ok">OK</string>
+    <string name="check_connection">Internet Connection Problem</string>
+    <string name="air_pres_s">Air Pressure: %,.2f</string>
+    <string name="wind_speed_s">Wind Speed %,.2f</string>
+    <string name="wind_speed_direc_s">Wind Direction %,.2f</string>
+    <string name="visibility_direc_s">Visibility %,.2f</string>
+</resources>
